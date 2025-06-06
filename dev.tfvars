@@ -1,9 +1,0 @@
-region                = "us-east-1"
-cidr_block            = "10.0.0.0/16"
-vpc_name              = "myvpc"
-ds                    = 6
-mis                   = 2
-ms                    = 8
-num_of_private_subnet = 2
-num_of_public_subnet  = 2
-node_grp_name         = "mynodegroup"
